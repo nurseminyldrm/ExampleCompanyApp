@@ -21,5 +21,7 @@ namespace ExampleCompanyApp.Api.Controllers
             return CreateActionResult (await _categoryService.GetSingleCategoryWithProductAsync(categoryId));
         }
             
+
+        // exm-1 branc
     }
 }
