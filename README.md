@@ -64,10 +64,5 @@ Repository ve Service pattern kullanımı
 Backend mimari tasarım pratiği
 kazanılmıştır.
 
-## 👨‍💻 Geliştirici
-Nurşemin Yıldırım
-GitHub:
-https://github.com/nurseminyldrm
-
 ## ⭐ Not
 Bu proje eğitim ve geliştirme amaçlı oluşturulmuştur.
